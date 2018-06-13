@@ -35,18 +35,8 @@ $(document).ready(function(){
 //________________
     
      //____________pagination work_____________________________________
-  $(function() {
+  $('#example').paginate();
 
-    $("div.holder").jPages({
-      containerID : "itemContainer",
-      perPage:3,
-      startPage:1,
-      startRange:1,
-      midRange:5,
-      endRange:1
-    });
- 
-  });
 
 //_________________________________________________
     var modal = document.getElementById('myModal');
@@ -165,3 +155,10 @@ function showSlidess(n) {
 }
 // _______________
 
+// $(function(){
+
+//   $("div.holder").jPages({
+//     containerID : "itemContainer"
+//   });
+
+// });

@@ -6,6 +6,7 @@
 		<div id="mymusic"><a href="#">My music</a></div>
 		<div id="Liveshow"><a href="#">Live show</a></div>
 	</section>
+
 	<section id="second" name="About me" >
 		<div id="bckk"><a href="#">back</a></div>
 		<h1>...About me!..</h1>
@@ -37,114 +38,88 @@
 	<section id="third" name="My music">
 			<div id="bckkk"><a href="#">back</a></div>
 
-<!-- navigation holder -->
-<div class="holder">
-<a class="jp-previous jp-disabled">← previous</a>
-<a class="jp-current">1</a>
-<span class="jp-hidden">...</span>
-<a>2</a>
-<a>3</a>
-<a>4</a>
-<a>5</a>
-<a class="jp-hidden">6</a>
-<a class="jp-hidden">7</a>
-<a class="jp-hidden">8</a>
-<a class="jp-hidden">9</a>
-<span>...</span>
-<a>10</a>
-<a class="jp-next">next →</a>
-</div>
-
-<!-- item container -->
-<ul id="itemContainer">
-    <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-    <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-    <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-							 <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-    <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-    <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-							 <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-    <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-    <li><iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe></li>
-
-</ul>
-
-<!-- navigation holder -->
-<div class="holder">
-	
-</div>
-
-	
-
-	</section>
-
+<div class="container">
+	<ul id="example" class="paginate paginate-0">
+		<li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+	    	</iframe>
+	    </li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+		<li>
+			<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
 		
-
-
- 				<!-- <div class="wrapper" id="container">
-     				<div class="row">
-					    <div class="col-sm-4">
-					    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe>
-					    </div>
-					    <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/LGOpSHzNhRw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					    <div class="col-sm-4">
-					    	<iframe  src="https://www.youtube.com/embed/r6kyhivVZyY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe>
-					    </div>
-					     <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/9E-Swt3eNSQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					    <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/RbEeDoO8PDA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					    <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/4g7MjmTSXC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					     <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/VB3DKe2-7P4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					    <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/_UrrmNn6Ckw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					    <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/Dz-ZjC0GywY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					</div>
-    			
-		    		<div class="row">
-					    <div class="col-sm-4">
-					    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe>
-					    </div>
-					    <div class="col-sm-4">
-					    	<iframe src="https://www.youtube.com/embed/LGOpSHzNhRw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					    </div>
-					</div>
-		   			<div class="row">
-					    <div class="col-sm-4">
-					    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-							</iframe>
-					    </div>			    
-					</div>
-				</div>
- -->
-
-				
-			
+		<li>
+			<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+		<li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+	    	</iframe>
+	    </li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+		<li>
+			<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+		
+		<li>
+			<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	    <li>
+	    	<iframe  src="https://www.youtube.com/embed/5PuulYUgRKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+			</iframe>
+		</li>
+	</ul>
 	
-	
+</div>
+
+    
+	</section>
 
 	<section id="forth" name="Live Show">
 		<div id="bck"><a href="#">back</a></div>
@@ -367,6 +342,11 @@
 <?php include 'footer.php';?>
 
 <script src="main.js"></script>
+<script src="//code.jquery.com/jquery.min.js"></script>
+<script src="src/jquery.paginate.js"></script>
+
+
+
 
 </body>
 
